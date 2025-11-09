@@ -14,13 +14,6 @@ export const projects = [
     tech: ["React", "Next.js", "Tailwind", "Prisma", "PostgresSQL", "TypeScript"],
     github: "https://github.com/margaretajibola/WigsbymagssBookingWebsite",
   },
-  {
-    title: "Algo-Trading Platform (In Progress)",
-    description:
-      "A high-performance algorithmic trading bot designed for automated, data-driven trading across multiple exchanges.",
-    tech: ["React", "Next.js", "Tailwind", "Prisma", "PostgresSQL", "TypeScript"],
-    github: "https://github.com/G77-BOT/Algo-Trading",
-  },
    {
     title: "Museum of Black Women",
     description:
