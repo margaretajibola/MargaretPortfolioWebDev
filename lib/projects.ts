@@ -1,5 +1,5 @@
 // lib/projects.ts
-export const projects = [
+export const webdevProjects = [
   {
     title: "YelpCamp",
     description:
@@ -27,4 +27,14 @@ export const projects = [
     tech: ["HTML", "Bulma", "JavaScript"],
     github: "https://github.com/margaretajibola/Ping-Pong-Game",
   }
+];
+
+export const dataProjects = [
+  {
+    title: "IBM Data Engineering Capstone",
+    description:
+      "A capstone project that demonstrates a comprehensive data engineering pipeline covering the entire data lifecycle from OLTP databases to advanced analytics and machine learning. The project implements modern data engineering practices using industry-standard tools and technologies.",
+    tech: ["Python", "SQL", "Bash",  "PostgreSQL","MySQL", "MongoDB", "Data Warehousing", "Apache Airflow", "Google Looker", "Apache Spark"],
+    github: "https://github.com/margaretajibola/ibm-data-engineering-capstone",
+  },
 ];
