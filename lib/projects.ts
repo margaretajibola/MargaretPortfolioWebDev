@@ -37,4 +37,11 @@ export const dataProjects = [
     tech: ["Python", "SQL", "Bash",  "PostgreSQL","MySQL", "MongoDB", "Data Warehousing", "Apache Airflow", "Google Looker", "Apache Spark"],
     github: "https://github.com/margaretajibola/ibm-data-engineering-capstone",
   },
+  {
+    title: "IMDB Movies Data Pipeline",
+    description:
+      "An end-to-end batch ETL pipeline for IMDB movie data analysis demonstrating complete data engineering workflow from CSV ingestion to interactive dashboards. Implements dimensional modeling (star schema), automated orchestration with Apache Airflow, and analytics visualization with Google Looker.",
+    tech: ["Python", "SQL", "Bash", "PostgreSQL", "Pandas", "Data Warehousing", "Apache Airflow", "Google Looker Studio", "ETL Pipeline"],
+    github: "https://github.com/margaretajibola/imdb-movies-pipeline",
+  }  
 ];
